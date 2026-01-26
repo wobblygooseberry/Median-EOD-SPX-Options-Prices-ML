@@ -1,0 +1,17 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# ML / data files (often too large for GitHub)
+*.pth
+*.pt
+*.npz
+*.npy
+*.pkl
+*.joblib
+*.csv
+*.tsv
+optionscsv/
+spxtxt/
